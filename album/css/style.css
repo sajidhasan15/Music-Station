@@ -1,0 +1,21 @@
+.box{
+	width: 60px;
+	height: 210px;
+	background-color: #fad390;
+	position: absolute;
+	z-index: 99;
+	margin-left: 495px;
+	margin-top: -269px;
+}
+.left{
+	float: right;
+}
+.container{
+	margin-top: 0px;
+}
+.body{
+	background-color: #fad390;
+}
+.ab: hover{
+	background-color: #fff;
+}

@@ -1,0 +1,117 @@
+*{
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+body {
+  padding-top: 50px;
+}
+
+@media (min-width: 1000px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+
+/*----------- dashboard css ----------*/
+
+element.style {
+}
+@media screen and (min-width: 1200px)
+.page-why-not-available .jumbotron-hero {
+    background-image: url(images/demo.jpg);
+}
+.page-why-not-available .jumbotron-hero {
+    background-image: url(/i/generic/hero-sm.jpg);
+    background-position: center center;
+}
+
+.jumbotron-inverse {
+    color: #F8F8F8;
+    background-color: #222326;
+}
+.jumbotron {
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+@media screen and (min-width: 768px)
+.jumbotron {
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: #222326;
+    background-color: #F8F8F8;
+}
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    min-height: 100vh;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: -ms-flex;
+    display: -webkit-box;
+    display: flex;
+    -moz-flex-direction: column;
+    -ms-flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+}
+body {
+    font-weight: 400;
+}
+body {
+    font-family: Circular, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #222326;
+    background-color: #FFF;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
